@@ -6,3 +6,4 @@ def fizzbuzz(i)
   elseif i % 3 == 0 && i % 5 == 0
     puts "fizzbuzz"
   end
+end 
