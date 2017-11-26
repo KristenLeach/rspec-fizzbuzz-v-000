@@ -1,9 +1,9 @@
 def fizzbuzz(n)
   if n % 3 == 0 && n % 5 == 0
-    puts "FizzBuzz"
+    puts "FizzBuzz" end
   elsif n % 3 == 0
-    puts "Fizz"
+    puts "Fizz" end
   elsif n % 5 == 0
-    puts "Buzz"
+    puts "Buzz" end
   end
 end 
