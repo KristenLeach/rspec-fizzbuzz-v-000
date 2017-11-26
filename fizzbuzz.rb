@@ -5,4 +5,4 @@ def fizzbuzz(i)
     puts "Buzz"
   elseif i % 3 == 0 && i % 5 == 0
     puts "fizzbuzz"
-end
+  end
